@@ -1,4 +1,3 @@
-[https://www.afr.com/technology/why-we-should-make-tech-harder-to-use-20181213-h192gn]
 Tulerie's co-founder Merri Smith tells me a fascinating story from the company's early days. In the beginning, Smith says, the company invited women to join via a brief Google survey, which it emailed to hundreds of prospective members.
 
 "We wanted to create as little friction as possible, while still having to vet these people," she says.
@@ -9,3 +8,4 @@ Logically, the new strategy should have failed. But it was a huge hit. Prospecti
 
 "It goes back to values," Smith says. "People perceive it as harder to get into, and they want to be a part of it."
 
+Source: https://www.afr.com/technology/why-we-should-make-tech-harder-to-use-20181213-h192gn
